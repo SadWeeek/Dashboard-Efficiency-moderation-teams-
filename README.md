@@ -2,7 +2,7 @@
 
 **Интерактивный дашборд (DataLens):** [открыть дашборд](https://datalens.yandex/1hv0y2j7azj6l)  
 **Подробный отчёт (PDF):** [скачать PDF-отчёт](./Отчет%20-%20эффективность%20команды%20разметки.pdf)  
-**Скриншот:** [общий вид дашборда]([./screenshots/dashboard_main.jpg](https://github.com/SadWeeek/Dashboard-Efficiency-moderation-teams-/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D0%B0.jpg))
+**Скриншот:** [общий вид дашборда](https://github.com/SadWeeek/Dashboard-Efficiency-moderation-teams-/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%20%D0%B4%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D0%B0.jpg)
 
 ## Задача проекта
 
